@@ -6,11 +6,11 @@
 
 using namespace std;
 
-void main()
+int main()
 {
 
 amysamy2002();
 alisobhy22();
 
-
+return 0;
 }
