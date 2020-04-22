@@ -1,4 +1,4 @@
 #include <iostream>
 using namespace std;
 
-void amysamy2002 ()
+void amysamy2002 ();
